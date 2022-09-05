@@ -1,0 +1,7 @@
+.prod-cont {
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+  margin: 0 auto;
+  justify-content: space-around;
+}

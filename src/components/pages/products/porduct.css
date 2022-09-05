@@ -1,0 +1,17 @@
+.prod-parent {
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.prod-sparent {
+  display: flex;
+}
+
+select {
+  height: 30px;
+  width: 160px;
+}

@@ -1,0 +1,27 @@
+.cat-wrapper {
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+.cat-wrapper2 {
+  width: 98%;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+.cat-img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.primary {
+  position: relative;
+  text-align: center;
+}
+.secondary {
+  position: absolute;
+  top: 50%;
+  left: 30%;
+  color: white;
+}
